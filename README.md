@@ -35,12 +35,6 @@ The ensemble model uses **Gradient Boosting**, which builds many trees sequentia
 
 ---
 
-## How to Run
-
-Install dependencies:
-```bash
-pip install xgboost numpy pandas scikit-learn
-
 ## Evaluation
 The model is evaluated using:
 
@@ -58,3 +52,12 @@ These metrics will be compared with the statistical and deep learning models in 
 - **Arden Sentak** — Statistical Model  
 - **Isabella Valentino** — Deep Learning Model  
 - **Joshua Marino** — Gradient Boosting Ensemble Model 
+
+---
+
+## How to Run
+
+Install dependencies:
+```bash
+pip install xgboost numpy pandas scikit-learn
+
