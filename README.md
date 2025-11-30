@@ -1,4 +1,4 @@
-# Gradient Boosting Ensemble Model — Stroke Prediction
+d# Gradient Boosting Ensemble Model — Stroke Prediction
 **Contributor:** Joshua Marino  
 Part of the project: *Balancing Model Complexity, Accuracy & Sustainability in Healthcare ML*
 
