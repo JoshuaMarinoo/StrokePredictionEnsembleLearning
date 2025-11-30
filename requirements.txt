@@ -4,5 +4,3 @@ pandas
 numpy
 python-dotenv
 kaggle
-WOWOEI
-woewoemw
